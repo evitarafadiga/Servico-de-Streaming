@@ -1,0 +1,1 @@
+# Aplicativo de Envio de Mensagens utilizando Flask, PostgreSQL e Server Side Events (SSE)
